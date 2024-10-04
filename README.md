@@ -1,4 +1,4 @@
-# 📄 EchoDoc
+# 🤖 EchoDoc
 
 ![EchoDoc](EchoDoc-Chatbot.png)
 
