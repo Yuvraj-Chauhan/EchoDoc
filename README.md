@@ -9,8 +9,8 @@
 
 - **📂 Upload Documents**: Easily upload and preview your PDF documents within the app.
 - **🧠 Create Embeddings**: Generate embeddings for your documents to enable efficient search and retrieval.
-- **🤖 Chatbot Interface**: Interact with your documents using a smart chatbot that leverages the created embeddings.
-- **📧 Contact**: Get in touch with the developer.
+- **🤖 EchoDoc Chatbot**: Interact with your documents using a smart chatbot that leverages the created embeddings.
+- **📧 Contact**: Get in touch.
 - **🌟 User-Friendly Interface**: Enjoy a sleek and intuitive UI with emojis and responsive design for enhanced user experience.
 
 ## 🖥️ Tech Stack
