@@ -49,4 +49,4 @@ echodoc/
 
 •	Qdrant Documentation: https://qdrant.tech/documentation/
 
-•	ChatOllama Documentation: https://github.com/langchain-ai/langchain-llms#ollama
+•	ChatOllama Documentation: https://python.langchain.com/docs/integrations/chat/ollama/
